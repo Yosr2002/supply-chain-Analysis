@@ -1,5 +1,6 @@
 ![power bi1](https://github.com/user-attachments/assets/ec1ee288-cf2e-47af-9ea8-1f75ca01e2b9)![power bi 2](https://github.com/user-attachments/assets/4a9c15cd-858a-4240-9d3f-ad89baebb1c4)
-![powerbi3](https://github.com/user-attachments/assets/34bbaf55-ade3-44d1-b23b-2b89a3b50f3b)
+
+![999](https://github.com/user-attachments/assets/ec822cab-d691-40c7-a854-d2c1a6ba6434)
 
 ![model](https://github.com/user-attachments/assets/cea66955-9f50-41d8-a5c2-ac24ac8fd713)
 Supply Chain Analytics Dashboard 📦📈
